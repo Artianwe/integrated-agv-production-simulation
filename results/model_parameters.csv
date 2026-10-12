@@ -1,0 +1,14 @@
+parameter,value
+agv_speed_m_per_s,0.6
+mean_interarrival_min,10.0
+m1_process_min,6.0
+m2_process_min,7.0
+pickup_handling_min,0.25
+dropoff_handling_min,0.25
+sim_duration_min,540.0
+warmup_min,60.0
+base_seed,42
+fleet_sizes,1 2 3 4 5
+policies,fifo nearest
+buffer_capacities,1 2 4
+replications,20

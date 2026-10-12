@@ -1,0 +1,9 @@
+Run log - generated 2026-10-12T03:56:25
+Python 3.13.16 | simpy 4.1.2 | numpy 2.5.3 | pandas 3.0.5 | scipy 1.18.1 | matplotlib 3.11.2
+Design: fleets (1, 2, 3, 4, 5), policies ('fifo', 'nearest'), buffers (1, 2, 4), replications 20, base seed 42
+Simulation runs completed: 600 in 2.8 s
+Invariant checks: run after EVERY simulation; any violation stops the program. All runs passed.
+Runs ending in deadlock: {'fifo': 132, 'nearest': 0}
+Figures written: 8
+technical_report.md tables updated: True
+Automated tests: PASSED

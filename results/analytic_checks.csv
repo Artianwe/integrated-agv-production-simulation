@@ -1,0 +1,11 @@
+quantity,value
+AGV speed (m/min),36.0
+Travel time for 120 m (min),3.3333333333333335
+One loaded leg incl. handling (min),3.8333333333333335
+"Loaded AGV time per component, 3 legs (min)",11.5
+Mean arrival rate (components/h),6.0
+Machine 1 capacity (components/h),10.0
+Machine 2 capacity (components/h),8.571428571428571
+Expected M1 utilization at full flow (%),60.0
+Expected M2 utilization at full flow (%),70.0
+Min. AGV-hours per hour for loaded work only (AGVs),1.15
